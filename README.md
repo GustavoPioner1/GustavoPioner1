@@ -1,4 +1,7 @@
 ### Hi there 👋
+**GustavoPioner1/GustavoPioner1** is a ✨ studant ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 <!--
 **GustavoPioner1/GustavoPioner1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
